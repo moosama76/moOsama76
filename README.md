@@ -1,74 +1,27 @@
-# Hi, I'm Osama 👋
+Mohamed Osama
+Software Engineer · Open-source contributor
 
-I build software around systems programming, graphics, and developer tools — with a strong focus on Rust, real-time rendering, CAD workflows, and algorithmic problem solving.
+I build software across systems programming, developer tools, backend engineering, and real-time applications. I enjoy understanding complex codebases, solving problems at their roots, and turning ideas into reliable, useful software.
 
-I enjoy working on projects that combine performance, visual output, and practical engineering. My interests include 3D rendering, game tech, procedural generation, low-level tooling, and open-source contribution.
+Most of my work is in Rust, C++, C#, and Python. I'm also comfortable working with JavaScript/TypeScript, Linux, and the tooling around modern software projects.
+Open-source contributions
+I like contributing to established projects, not just building things from scratch. Some of the work I'm proud of:
+Project	My contributions
+Graphite	Worked extensively on the editor's snapping system: alignment and distribution behavior, tangent/normal and other geometric snapping, bug fixes, and regression tests. See my pull requests
+Bevy	Contributed an official 2D screen-shake example, including camera behavior and configurable shake intensity. Merged PR #15567
+Awedio	Expanded test coverage for a lightweight Rust audio library. Merged PR #5
+CadQuery	Contributed to the Python CAD ecosystem, including work in cadquery-contrib. See my CadQuery pull requests
 
-## What I'm into
 
-- Rust ecosystems and systems programming
-- 3D rendering and terrain generation
-- Game development and graphics tooling
-- CAD scripting and parametric modeling
-- Algorithms, data structures, and competitive programming
-- Building polished developer-facing tools and workflows
-
-## Featured projects
-
-### 3D Terrain
-[3D-Terrain](https://github.com/moosama76/3D-Terrain)  
-Native Rust + wgpu project focused on real-time 3D terrain generation and visualization.
-
-### Graphite
-[Graphite](https://github.com/moosama76/Graphite)  
-A 2D raster/vector editor with a layered, node-based, non-destructive procedural workflow.
-
-### cadquery / cadquery-contrib
-[cadquery](https://github.com/moosama76/cadquery)  
-[cadquery-contrib](https://github.com/moosama76/cadquery-contrib)  
-Exploring Python-based CAD scripting and parametric design workflows.
-
-### bevy
-[bevy](https://github.com/moosama76/bevy)  
-A refreshingly simple data-driven game engine built in Rust.
-
-### awedio
-[awedio](https://github.com/moosama76/awedio)  
-A lightweight audio playback library for Rust.
-
-### rust-clippy / rust_for_linux
-[rust-clippy](https://github.com/moosama76/rust-clippy)  
-[rust_for_linux](https://github.com/moosama76/rust_for_linux)  
-Researching and engaging with Rust tooling and OS-level integration.
-
-## Tech stack
-
-- Languages: Rust, C++, C#, Python, HTML, CSS, PHP
-- Tools & ecosystems: wgpu, Bevy, Unity, CAD tools, Linux tooling, Git
-- Areas: Rendering, graphics, game dev, systems, algorithms, tooling
-
-## Open source focus
-
-I’m especially interested in projects that sit at the intersection of:
-
-- performance
-- visual output
-- systems design
-- developer ergonomics
-- real-world tooling
-
-I enjoy contributing to software that is useful, technically rich, and thoughtfully engineered.
-
-## Current focus
-
-- Real-time graphics and rendering experiments
-- Rust-native tooling and engine architecture
-- CAD and procedural design exploration
-- Algorithmic problem solving and practical engineering challenges
-
-## Connect
-
-- GitHub: [@moosama76](https://github.com/moosama76)
-- Email: available via profile / contact links if added
-
-> Building software that is performant, expressive, and useful.
+Explore all my GitHub pull requests
+Things I've built
+- Tora — Tools and workflows for building high-quality interactive playable ads.
+- rust-cp-template — A Rust setup for competitive programming and algorithmic problem solving.
+- 3D Terrain — Native Rust/wgpu terrain rendering project.
+What I work with
+- Languages: Rust, C++, C#, Python, JavaScript/TypeScript
+- Engineering: algorithms and data structures, concurrency, performance, testing, system design
+- Tools & platforms: Git, Linux, Unity, Bevy, wgpu, OpenGL
+- Interests: systems and backend engineering, developer tools, game technology, computational geometry, and open source
+Connect
+LinkedIn · GitHub · Tora
